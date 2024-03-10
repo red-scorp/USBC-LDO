@@ -21,7 +21,7 @@ STEP 3D file is available [here](doc/USBC-LDO.step).
 Features:
 
 - USB-C connector configured for 5V power delivery
-- 3.3V LDO voltage regulator up 1to 1A output current
+- 3.3V LDO voltage regulator up to 1A output current
 - LED power indicator
 
 CAM files, as well as the BOM and CPL files for JLCPCB and NextPCB, are available.
